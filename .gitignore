@@ -4,4 +4,4 @@ traceback.txt
 lint.txt
 script_piecesforldiscard.*
 discard.*
-.save
+*.save
